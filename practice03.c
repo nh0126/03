@@ -11,7 +11,7 @@ int main(void) {
 	
 	output_char = input_char + 1;
 	
-	printf("the next character of %c (%d) is %c (%d)\n", input_char, input_char, output_char, output_char);
+	printf("the next character of %c (%i) is %c (%i)\n", input_char, input_char, output_char, output_char);
 	
 	return 0;
 }
